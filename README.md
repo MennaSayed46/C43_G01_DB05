@@ -1,10 +1,4 @@
 # ITI DB Queries
-## Database
-
-To restore the database, download it from the link below:
-
-👉 [Download the DB File](https://drive.google.com/file/d/1lQigj3HhHY_fZKTNVFNQDLc-_v2i02jB/view?usp=sharing)
-
 
 ### Part 01 (ITI DB)
 
@@ -58,3 +52,9 @@ To restore the database, download it from the link below:
 
 8. Display the Product Name and its ListPrice within the values of 100 and 120. The list should have the following format:  
    "The [product name] is only! [List price]" (the list will be sorted according to its ListPrice value).
+
+## Database
+
+To restore the database, download it from the link below:
+
+👉 [Download the DB File](https://drive.google.com/file/d/1lQigj3HhHY_fZKTNVFNQDLc-_v2i02jB/view?usp=sharing)
